@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skool-study",
+  "description": "Turn a Skool course into transcripts, notes and a playbook.",
+  "owner": {
+    "name": "itsjwill",
+    "url": "https://github.com/itsjwill"
+  },
+  "plugins": [
+    {
+      "name": "skool-study",
+      "description": "Map, transcribe and study every lesson in a Skool classroom you belong to.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

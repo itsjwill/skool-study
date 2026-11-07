@@ -1,0 +1,13 @@
+{
+  "name": "skool-study",
+  "version": "1.0.0",
+  "description": "Point Claude Code at a Skool classroom you are a member of and it maps every lesson, pulls transcripts (Loom, YouTube, Mux, any yt-dlp host), transcribes locally with whisper.cpp for free, then studies the course into section notes, a playbook and an index.",
+  "author": {
+    "name": "itsjwill",
+    "url": "https://github.com/itsjwill"
+  },
+  "homepage": "https://github.com/itsjwill/skool-study",
+  "repository": "https://github.com/itsjwill/skool-study",
+  "license": "MIT",
+  "keywords": ["skool", "course", "transcripts", "whisper", "loom", "mux", "youtube", "study", "notes"]
+}

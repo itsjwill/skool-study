@@ -1,0 +1,13 @@
+# never commit course content or media
+out/
+course/
+*.mp4
+*.m4a
+*.wav
+*.vtt
+*.webm
+transcripts/
+raw/
+.DS_Store
+__pycache__/
+venv/
